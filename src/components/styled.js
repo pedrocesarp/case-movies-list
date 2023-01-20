@@ -12,6 +12,5 @@ export const Header = styled.header`
 
 export const ImgLogo = styled.img`
   margin-left: 4rem;
-  
 `;
 
