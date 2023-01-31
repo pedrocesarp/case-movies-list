@@ -1,70 +1,83 @@
-# Getting Started with Create React App
+<h1 align="center">
+<p align="center" style="font-weight: bold;"> 🎬 Case | Popular Movies and Series  </p>
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<h1>
+    <p style="font-weight: bold;">🧠 Contexto</p>
+</h1>
 
-In the project directory, you can run:
+O objetivo foi criar uma aplicação que lista os filmes e séries mais populares.
 
-### `npm start`
+- 🎯 Objetivo do Projeto
+- ⚙️ Requisitos
+- 🔗 Link do Projeto no Surge
+- 🎨 Layout
+- 🛠️ Tecnologias Utilizadas
+- 📚 Bibliotecas Utilizadas
+- 👨‍💻 Desenvolvedor
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h1>
+    <p style="font-weight: bold;">🎯 Objetivo do projeto</p>
+</h1>
+   
+<p align="justify">Criação de uma aplicação que lista em tempo real os filmes e séries mais populares do dia, através de consulta a API themoviedb.</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h1>
+    <p style="font-weight: bold;">⚙️ Requisitos</p>
+</h1>
 
-### `npm test`
+  - O usuário deve ter acesso a uma listagem dos filmes mais populares do dia;
+  - O usuário deve conseguir paginar a lista para encontrar novos filmes;
+  - O usuário deve ter acesso a uma outra página com detalhes sobre o filme, ao clicar em um item na listagem;
+  - Filtro de gêneros na página inicial.
+  
+  <h1>
+    <p style="font-weight: bold;">🔗 Link do projeto no Surge</p>
+</h1>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+https://case-movies-list-eight.vercel.app/
 
-### `npm run build`
+<h1>
+    <p style="font-weight: bold;">🎨 Layout</p>
+</h1>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![image](https://user-images.githubusercontent.com/20207373/215883102-c5e2594c-1e25-459c-ad09-17e606db5a29.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://user-images.githubusercontent.com/20207373/215883188-1447b186-5b18-4bdb-9dec-5b8f941bd49c.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<h1>
+    <p style=" font-weight: bold;">🛠️ Tecnologias Utilizadas</p>
+</h1>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+ <div style="display: inline_block"><br>
+ 
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ 
+</div>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<h1>
+    <p style=" font-weight: bold;">📚 Bibliotecas utilizadas</p>
+</h1>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- [styled-components](https://styled-components.com/)
+- [react-icons](https://react-icons.github.io/react-icons)
+- [react-router-dom](https://v5.reactrouter.com/)
 
-## Learn More
+<h1>
+    <p style=" font-weight: bold;">👨‍💻 Desenvolvedor</p>
+</h1>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+ <table>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  <tr>
+    <td align="center"><a href="https://github.com/pedrocesarp"><img style="border-radius: 50%;" src="https://media-exp2.licdn.com/dms/image/C4D03AQEZYvoXnrZx1w/profile-displayphoto-shrink_200_200/0/1554927480565?e=1661990400&v=beta&t=UZliOwaAAGwFO1bvnSdFBY-2cX9ogdw6KGG_m_Zkl7Y" width="100px;" alt=""/><br /><sub><b>Pedro Cesar Pinto</b></sub></a><br /> <a href="https://www.linkedin.com/in/pedrocesarpinto/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>    
+  </tr>
+  
+</table>
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
